@@ -1,0 +1,2 @@
+# MongoDB $inc Operator Error
+This repository demonstrates a common error when using the $inc operator in MongoDB. The issue arises when attempting to increment a field that does not yet exist. This code example shows how to properly use $inc with the upsert option to avoid such errors.
